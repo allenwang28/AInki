@@ -1,0 +1,10 @@
+pykakasi
+openai
+git+https://github.com/Kajen5/furigana.git
+mecab-python3
+unidic-lite
+ankisync2
+genanki
+stability-sdk
+boto3
+"ray[default]"
